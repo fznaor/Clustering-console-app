@@ -1,0 +1,22 @@
+C:\Users\korisnik\source\repos\ZVRŠN\WindowsFormsApp2\obj\Release\Usporedba metoda za razvrstavanje oko središnje točke.csprojAssemblyReference.cache
+C:\Users\korisnik\source\repos\ZVRŠN\WindowsFormsApp2\obj\Release\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\korisnik\source\repos\ZVRŠN\WindowsFormsApp2\obj\Release\Usporedba metoda za razvrstavanje oko središnje točke.csproj.GenerateResource.cache
+C:\Users\korisnik\source\repos\ZVRŠN\WindowsFormsApp2\obj\Release\Usporedba metoda za razvrstavanje oko središnje točke.csproj.CoreCompileInputs.cache
+C:\Users\korisnik\source\repos\ZVRŠN\WindowsFormsApp2\obj\Release\WindowsFormsApp2.exe
+C:\Users\korisnik\source\repos\ZVRŠN\WindowsFormsApp2\obj\Release\WindowsFormsApp2.pdb
+C:\Users\korisnik\source\repos\ZVRŠN\WindowsFormsApp2\bin\Release\WindowsFormsApp2.exe.config
+C:\Users\korisnik\source\repos\ZVRŠN\WindowsFormsApp2\bin\Release\WindowsFormsApp2.exe
+C:\Users\korisnik\source\repos\ZVRŠN\WindowsFormsApp2\bin\Release\WindowsFormsApp2.pdb
+C:\Users\korisnik\source\repos\ZVRŠN\WindowsFormsApp2\obj\Release\ZavrsniRad.MainForm.resources
+C:\Users\korisnik\source\repos\ZVRŠN\WindowsFormsApp2\obj\Release\ZavrsniRad.ZoomForm.resources
+C:\Users\korisnik\source\repos\ZVRŠN\Usporedba metoda za razvrstavanje oko središnje točke\bin\Release\WindowsFormsApp2.exe.config
+C:\Users\korisnik\source\repos\ZVRŠN\Usporedba metoda za razvrstavanje oko središnje točke\bin\Release\WindowsFormsApp2.exe
+C:\Users\korisnik\source\repos\ZVRŠN\Usporedba metoda za razvrstavanje oko središnje točke\bin\Release\WindowsFormsApp2.pdb
+C:\Users\korisnik\source\repos\ZVRŠN\Usporedba metoda za razvrstavanje oko središnje točke\obj\Release\Usporedba metoda za razvrstavanje oko središnje točke.csprojAssemblyReference.cache
+C:\Users\korisnik\source\repos\ZVRŠN\Usporedba metoda za razvrstavanje oko središnje točke\obj\Release\ZavrsniRad.MainForm.resources
+C:\Users\korisnik\source\repos\ZVRŠN\Usporedba metoda za razvrstavanje oko središnje točke\obj\Release\ZavrsniRad.ZoomForm.resources
+C:\Users\korisnik\source\repos\ZVRŠN\Usporedba metoda za razvrstavanje oko središnje točke\obj\Release\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\korisnik\source\repos\ZVRŠN\Usporedba metoda za razvrstavanje oko središnje točke\obj\Release\Usporedba metoda za razvrstavanje oko središnje točke.csproj.GenerateResource.cache
+C:\Users\korisnik\source\repos\ZVRŠN\Usporedba metoda za razvrstavanje oko središnje točke\obj\Release\Usporedba metoda za razvrstavanje oko središnje točke.csproj.CoreCompileInputs.cache
+C:\Users\korisnik\source\repos\ZVRŠN\Usporedba metoda za razvrstavanje oko središnje točke\obj\Release\WindowsFormsApp2.exe
+C:\Users\korisnik\source\repos\ZVRŠN\Usporedba metoda za razvrstavanje oko središnje točke\obj\Release\WindowsFormsApp2.pdb
